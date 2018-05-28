@@ -1,0 +1,27 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+400682	Amphimedon queenslandica	100637288	0	live	LOC100637288		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+6500	Aplysia californica	101858631	0	live	LOC101858631		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+10224	Saccoglossus kowalevskii	102805365	0	live	LOC102805365		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un	NW_003150821.1	5732	12366	minus	4		
+29159	Crassostrea gigas	105322704	0	live	LOC105322704	CGI_10020743, AOX	alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like|Alternative oxidase, mitochondrial		Un							
+6526	Biomphalaria glabrata	106070831	0	live	LOC106070831		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+6526	Biomphalaria glabrata	106070833	0	live	LOC106070833		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+7574	Lingula anatina	106150364	0	live	LOC106150364		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+7574	Lingula anatina	106151081	0	live	LOC106151081		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+7574	Lingula anatina	106170256	0	live	LOC106170256		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+70779	Acropora digitifera	107331955	0	live	LOC107331955		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+7719	Ciona intestinalis	108950628	0	live	LOC108950628		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+7741	Branchiostoma belcheri	109462341	0	live	LOC109462341		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+48498	Orbicella faveolata	110055019	0	live	LOC110055019		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+48498	Orbicella faveolata	110055030	0	live	LOC110055030		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+48498	Orbicella faveolata	110068357	0	live	LOC110068357		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+48498	Orbicella faveolata	110068649	0	live	LOC110068649		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+1720309	Exaiptasia pallida	110235332	0	live	LOC110235332	AC249_AIPGENE15678, aox1	alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like|Alternative oxidase, mitochondrial		Un							
+6573	Mizuhopecten yessoensis	110460759	0	live	LOC110460759		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+158441	Folsomia candida	110862114	0	live	LOC110862114		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+133434	Acanthaster planci	110979399	0	live	LOC110979399		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+6565	Crassostrea virginica	111119097	0	live	LOC111119097		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		1	NC_035780.1	47737553	47742234	minus	10		
+6565	Crassostrea virginica	111119236	0	live	LOC111119236		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		1	NC_035780.1	49506871	49513057	minus	10		
+50429	Stylophora pistillata	111340724	0	live	LOC111340724		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+50429	Stylophora pistillata	111341744	0	live	LOC111341744		alternative oxidase 2, mitochondrial-like	alternative oxidase 2, mitochondrial-like|alternative oxidase, mitochondrial-like		Un							
+88015	Eurytemora affinis	111696865	0	live	LOC111696865		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
+7668	Strongylocentrotus purpuratus	580337	0	live	LOC580337		alternative oxidase, mitochondrial-like	alternative oxidase, mitochondrial-like		Un							
